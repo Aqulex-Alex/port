@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="obomne.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Алексей Подбуцкий</h1>
+      <ul>
+        <li>люблю играть в игры</li>
+        <li>Снимаю видео</li>
+        <li>делаю сайты</li>
+        <li>Разрабатываю игры</li>
+      </ul>
+      <img src="https://www.aviant.ru/upload/iblock/de9/bf0169604a3ca6c1da9580094af230ab5899a072.jpg" width="500px" height="px"/>
+
+    </main>
+    <footer>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
